@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "XgIAeTv7fz/G83vZ7UyWd32H+0CnoCY3REhf/+ESwGM=",
+  "Source": "IST_Networks_Task.Api",
+  "BasePath": "_content/IST_Networks_Task.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

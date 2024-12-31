@@ -1,0 +1,11 @@
+D:\Projects\IST_Networks_Task\IST_Networks_Task\IST_Networks_Task.Core\bin\Debug\net8.0\IST_Networks_Task.Core.deps.json
+D:\Projects\IST_Networks_Task\IST_Networks_Task\IST_Networks_Task.Core\bin\Debug\net8.0\IST_Networks_Task.Core.dll
+D:\Projects\IST_Networks_Task\IST_Networks_Task\IST_Networks_Task.Core\bin\Debug\net8.0\IST_Networks_Task.Core.pdb
+D:\Projects\IST_Networks_Task\IST_Networks_Task\IST_Networks_Task.Core\obj\Debug\net8.0\IST_Networks_Task.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\IST_Networks_Task\IST_Networks_Task\IST_Networks_Task.Core\obj\Debug\net8.0\IST_Networks_Task.Core.AssemblyInfoInputs.cache
+D:\Projects\IST_Networks_Task\IST_Networks_Task\IST_Networks_Task.Core\obj\Debug\net8.0\IST_Networks_Task.Core.AssemblyInfo.cs
+D:\Projects\IST_Networks_Task\IST_Networks_Task\IST_Networks_Task.Core\obj\Debug\net8.0\IST_Networks_Task.Core.csproj.CoreCompileInputs.cache
+D:\Projects\IST_Networks_Task\IST_Networks_Task\IST_Networks_Task.Core\obj\Debug\net8.0\IST_Networks_Task.Core.dll
+D:\Projects\IST_Networks_Task\IST_Networks_Task\IST_Networks_Task.Core\obj\Debug\net8.0\refint\IST_Networks_Task.Core.dll
+D:\Projects\IST_Networks_Task\IST_Networks_Task\IST_Networks_Task.Core\obj\Debug\net8.0\IST_Networks_Task.Core.pdb
+D:\Projects\IST_Networks_Task\IST_Networks_Task\IST_Networks_Task.Core\obj\Debug\net8.0\ref\IST_Networks_Task.Core.dll
