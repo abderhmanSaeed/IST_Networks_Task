@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IST_Networks_Task.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d90ee24c530abd8ed22478c03d9a3190e95b9e9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b045c03a4d8e00917b91ac76d1156ccd553af62a")]
 [assembly: System.Reflection.AssemblyProductAttribute("IST_Networks_Task.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IST_Networks_Task.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

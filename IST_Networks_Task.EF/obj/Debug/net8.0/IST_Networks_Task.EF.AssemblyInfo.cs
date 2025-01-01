@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IST_Networks_Task.EF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac1dca36d6f5eeb2ddf0e0aa60a3be157c3b3edb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b045c03a4d8e00917b91ac76d1156ccd553af62a")]
 [assembly: System.Reflection.AssemblyProductAttribute("IST_Networks_Task.EF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IST_Networks_Task.EF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
