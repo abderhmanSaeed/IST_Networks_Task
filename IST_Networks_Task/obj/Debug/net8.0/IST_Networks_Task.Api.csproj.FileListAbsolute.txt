@@ -209,3 +209,5 @@ D:\Projects\IST_Networks_Task\IST_Networks_Task\obj\Debug\net8.0\refint\IST_Netw
 D:\Projects\IST_Networks_Task\IST_Networks_Task\obj\Debug\net8.0\IST_Networks_Task.Api.pdb
 D:\Projects\IST_Networks_Task\IST_Networks_Task\obj\Debug\net8.0\IST_Networks_Task.Api.genruntimeconfig.cache
 D:\Projects\IST_Networks_Task\IST_Networks_Task\obj\Debug\net8.0\ref\IST_Networks_Task.Api.dll
+D:\Projects\IST_Networks_Task\IST_Networks_Task\bin\Debug\net8.0\IST_Networks_Task.Core.dll
+D:\Projects\IST_Networks_Task\IST_Networks_Task\bin\Debug\net8.0\IST_Networks_Task.Core.pdb

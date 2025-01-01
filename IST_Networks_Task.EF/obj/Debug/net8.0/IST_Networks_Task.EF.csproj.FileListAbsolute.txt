@@ -27,3 +27,6 @@ D:\Projects\IST_Networks_Task\IST_Networks_Task.EF\obj\Debug\net8.0\refint\IST_N
 D:\Projects\IST_Networks_Task\IST_Networks_Task.EF\obj\Debug\net8.0\IST_Networks_Task.EF.pdb
 D:\Projects\IST_Networks_Task\IST_Networks_Task.EF\obj\Debug\net8.0\IST_Networks_Task.EF.genruntimeconfig.cache
 D:\Projects\IST_Networks_Task\IST_Networks_Task.EF\obj\Debug\net8.0\ref\IST_Networks_Task.EF.dll
+D:\Projects\IST_Networks_Task\IST_Networks_Task.EF\bin\Debug\net8.0\IST_Networks_Task.Core.dll
+D:\Projects\IST_Networks_Task\IST_Networks_Task.EF\bin\Debug\net8.0\IST_Networks_Task.Core.pdb
+D:\Projects\IST_Networks_Task\IST_Networks_Task.EF\obj\Debug\net8.0\IST_Netw.D96B4317.Up2Date

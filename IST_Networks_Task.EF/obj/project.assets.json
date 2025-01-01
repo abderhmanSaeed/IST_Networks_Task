@@ -1608,6 +1608,16 @@
             "rid": "win"
           }
         }
+      },
+      "IST_Networks_Task.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/IST_Networks_Task.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IST_Networks_Task.Core.dll": {}
+        }
       }
     }
   },
@@ -4724,10 +4734,16 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "IST_Networks_Task.Core/1.0.0": {
+      "type": "project",
+      "path": "../IST_Networks_Task.Core/IST_Networks_Task.Core.csproj",
+      "msbuildProject": "../IST_Networks_Task.Core/IST_Networks_Task.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "IST_Networks_Task.Core >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 9.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 9.0.0"
@@ -4765,7 +4781,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Projects\\IST_Networks_Task\\IST_Networks_Task.Core\\IST_Networks_Task.Core.csproj": {
+              "projectPath": "D:\\Projects\\IST_Networks_Task\\IST_Networks_Task.Core\\IST_Networks_Task.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

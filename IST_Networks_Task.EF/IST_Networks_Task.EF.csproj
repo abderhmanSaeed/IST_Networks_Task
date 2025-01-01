@@ -15,4 +15,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\IST_Networks_Task.Core\IST_Networks_Task.Core.csproj" />
+  </ItemGroup>
+
 </Project>
